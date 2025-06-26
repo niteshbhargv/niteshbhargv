@@ -1,6 +1,6 @@
 # Hi, I'm Nitesh Bhargava
 
-I am a seasoned Computer Scientist II at Adobe with over 9 years of experience in software development and system architecture. Currently, I am leading the migration of Adobe Captivate to the cloud and developing enterprise-class content management solutions.
+I am a senior backend developer at Adobe with over 9 years of experience in software development and system architecture. Currently, I am leading the migration of Adobe Captivate to the cloud and developing enterprise-class content management solutions.
 
 My expertise encompasses full-stack development, microservices architecture, and cloud technologies. I am passionate about building scalable systems and have successfully delivered multiple projects across various domains, including fintech, e-commerce, and enterprise software.
 
