@@ -17,22 +17,6 @@ With a strong educational background from IIT Madras and extensive experience at
 
 ---
 
-## Technical Expertise
-
-- **Primary Technologies**: Java, Spring Boot, MySQL, Redis, Kafka, Docker, Node.js
-- **Distributed Systems**:
-  - Engineered backend systems for **newsfeeds**, **eCommerce platforms**, and **content management systems**
-  - Implemented **multi-threaded**, **event-driven architectures** with real-time WebSocket communication
-- **Cloud Infrastructure**:
-  - Established **Jenkins + ArgoCD** pipelines for automated CI/CD workflows
-  - Proficient in **AWS**, **S3**, **Artifactory**, **Akamai**, and feature flag implementation
-- **System Monitoring**:
-  - Implemented comprehensive monitoring using **Prometheus** and automated testing frameworks
-- **Architecture Design**:
-  - Developed **data marts**, **star schemas**, and **custom key-value stores**
-  - Architected **modular systems** utilizing industry-standard design patterns
-
----
 
 ## Professional Interests
 
