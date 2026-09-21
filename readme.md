@@ -1,6 +1,6 @@
 # Hi, I'm Nitesh Bhargava
 
-I am a senior backend developer at Arista Networks with around 10 years of experience in software development and system architecture. , I have led the migration of Adobe Captivate review to the cloud and developing enterprise-class content management solutions.
+I am a senior backend developer at Arista Networks with around 10 years of experience in software development and system architecture. I have led the migration of Adobe Captivate review to the cloud and developing enterprise-class content management solutions.
 
 My expertise encompasses full-stack development, microservices architecture, and cloud technologies. I am passionate about building scalable systems and have successfully delivered multiple projects across various domains, including fintech, e-commerce, and enterprise software.
 
